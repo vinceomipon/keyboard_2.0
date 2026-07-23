@@ -6043,7 +6043,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "15p"
 			(at 55.88 355.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7855,7 +7855,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "15p"
 			(at 55.88 332.74 90)
 			(show_name no)
 			(do_not_autoplace no)
