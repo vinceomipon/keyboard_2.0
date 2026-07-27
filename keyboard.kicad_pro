@@ -632,7 +632,7 @@
         "uuid": "4d03a9a6-8b5c-48be-8b99-d5cd1aeff9bb"
       }
     ],
-    "used_designators": "MX1-84,D1-84",
+    "used_designators": "MX1-84,#PWR19,#PWR33-34,D1-84,#FLG1-3",
     "variants": []
   },
   "sheets": [
