@@ -545,7 +545,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -687,14 +687,9 @@
         "filename": "keyboard.kicad_sch",
         "name": "keyboard",
         "uuid": "4d03a9a6-8b5c-48be-8b99-d5cd1aeff9bb"
-      },
-      {
-        "filename": "leds.kicad_sch",
-        "name": "LEDs",
-        "uuid": "9a76b126-dd1a-4da1-86ab-fd41974bf99b"
       }
     ],
-    "used_designators": "#PWR23-24,D86-173,LED2-88",
+    "used_designators": "C1-184,C201-300,C401-484,D2-86,D201-285,F2,F85,F201,#FLG2-4,#FLG201-203,R2-11,R85-93,R201-209,J2-3,J85-86,J201-202,SW2-3,SW85-86,SW201-202,U2-5,U85-87,U201-203,Y2,Y85,Y201,#PWR2-41,#PWR85-88,#PWR201-232,LED1-168,LED201-284,MX2-85,MX201-284,S2-5,S201-204",
     "variants": []
   },
   "sheets": [
@@ -703,8 +698,8 @@
       "keyboard"
     ],
     [
-      "9a76b126-dd1a-4da1-86ab-fd41974bf99b",
-      "LEDs"
+      "090db67d-52a1-4dc3-b9fe-b045ce946507",
+      "LED_link"
     ]
   ],
   "text_variables": {},
